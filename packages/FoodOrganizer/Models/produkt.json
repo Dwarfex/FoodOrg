@@ -1,0 +1,100 @@
+{
+  "_id": "56d762b29cc65460f1e89e88",
+  "additionalInfo": "",
+  "alcohol": null,
+  "allergicHints": [
+    {
+      "name": "Erdnuesse",
+      "rating": "1"
+    },
+    {
+      "name": "Nuesse",
+      "rating": "1"
+    },
+    {
+      "name": "Schalenfruechte",
+      "rating": "1"
+    }
+  ],
+  "basic_unit": "g",
+  "brand": "MARYLAND",
+  "content": "275 g",
+  "contentAlarms": [
+    {
+      "name": "Fett",
+      "rating": "3",
+      "amount": 48,
+      "referenceAmount": "100",
+      "contentUnit": "g"
+    },
+    {
+      "name": "gesaettigte Fettsaeuren",
+      "rating": "0",
+      "amount": 7.1,
+      "referenceAmount": "100",
+      "contentUnit": "g"
+    },
+    {
+      "name": "Zucker",
+      "rating": "1",
+      "amount": 4.1,
+      "referenceAmount": "100",
+      "contentUnit": "g"
+    },
+    {
+      "name": "Natrium",
+      "rating": "2",
+      "amount": 1.5,
+      "referenceAmount": "100",
+      "contentUnit": "g"
+    }
+  ],
+  "description": "",
+  "ean": "4008088184038",
+  "eanType": "EAN-13",
+  "energyDailyDosis": "",
+  "energykcal": "609",
+  "energykj": "2525",
+  "enumbers": [],
+  "id": "1",
+  "imageUrl": "http://example.com/content-delivery-network/56d762b29cc65460f1e89e88.jpg",
+  "ingredients": "Erdnusskerne (blanchiert, geroestet), Cashewkerne (geroestet), Mandeln (geroestet), Rapsoel, Salz",
+  "isAllergicDataEditable": true,
+  "isBasicDataEditable": true,
+  "isContentAlarmEditable": true,
+  "isEANEditable": true,
+  "isEditable": true,
+  "isIngredientsDataEditable": true,
+  "manufacturer": "MARYLAND Trockenfrucht Vertriebs GmbH",
+  "nutritionalValues": [
+    {
+      "name": "Eiweiß",
+      "amount": 26,
+      "dailyFraction": -1
+    },
+    {
+      "name": "Kohlenhydrate",
+      "amount": 12,
+      "dailyFraction": -1
+    },
+    {
+      "name": "Fett",
+      "amount": 48,
+      "dailyFraction": -1
+    },
+    {
+      "name": "Ballaststoffe",
+      "amount": -1,
+      "dailyFraction": -1
+    },
+    {
+      "name": "Salz",
+      "amount": 1.5,
+      "dailyFraction": -1
+    }
+  ],
+  "packaging": "Becher",
+  "product": "Nussmischung",
+  "title": "MARYLAND SNACKNÜSSE geröstet & gesalzen [275G]",
+  "vitamins": ""
+}

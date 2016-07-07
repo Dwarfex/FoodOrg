@@ -1,0 +1,236 @@
+{
+  "_id": ObjectId
+  (
+  "56d59b5b44054e7e75da2888"
+  ),
+  "rezept_bilder": [
+    {
+      "id": 869221,
+      "num_votes": 2,
+      "average_rating": 1.5,
+      "bigImage": "http://example.com/content-delivery-network/small_288613_869221.jpg",
+      "smallImage": "http://example.com/content-delivery-network/big_288613_869221.jpg",
+      "user_id": "45c571a156ddcef41351a713bcddee5ba7e95460",
+      "owner": "testuser",
+      "user_name": "testuser"
+    }
+  ],
+  "rezept_cooking_time": 30,
+  "rezept_datum": "1440963009",
+  "rezept_frontend_url": "http://example.com/main/recipes/details/288613/1440963009",
+  "rezept_id": "288613",
+  "rezept_in_rezeptesammlung": null,
+  "rezept_kcal": 1469,
+  "rezept_name": "Mohnzopf mit Kirschfüllung",
+  "rezept_name2": "je nach Dicke 16 - 20 Scheiben",
+  "rezept_portionen": "1",
+  "rezept_preparation": null,
+  "rezept_preparation_time": 85,
+  "rezept_resting_time": 40,
+  "rezept_schwierigkeit": "normal",
+  "rezept_show_id": "2886131440855569",
+  "rezept_statistik": {
+    "total": {
+      "viewed": "500",
+      "saved": "4",
+      "printed": "14",
+      "mailed": "0"
+    },
+    "month": {
+      "viewed": "7",
+      "saved": "0",
+      "printed": "0",
+      "mailed": "0"
+    }
+  },
+  "rezept_tags": [
+    "Backen",
+    "Kuchen",
+    "Test"
+  ],
+  "rezept_user_id": "45c571a156ddcef41351a713bcddee5ba7e95460",
+  "rezept_user_name": "testuser",
+  "rezept_user_portionen": "4",
+  "rezept_videos": [],
+  "rezept_votes": {
+    "average": 3,
+    "img": "3",
+    "votes": "1",
+    "result": "4"
+  },
+  "rezept_zubereitungs_step": [
+    {
+      "id": null,
+      "abhaeningVon": null,
+      "zubereitung": "Die Milch etwas erwärmen, die Hefe hineinbröckeln und umrühren, bis sie sich aufgelöst hat. Das Mehl in die Rührschüssel sieben. Den Zucker, die Mohnmischung, Milch, Butter und 4 der Eigelbe, die Zitronenschale nicht zu vergessen und das Salz mit in die Rührschüssel geben. Alles mit dem Knethaken der Küchenmaschine zu einem geschmeidigen Teig kneten. \r\n\r\n\r\n\r\n",
+      "zubereitungsZeit": "20",
+      "zutaten": [
+        {
+          "mongoId": null,
+          "eigenschaft": null,
+          "einheit": "",
+          "id": null,
+          "ist_basic": null,
+          "menge": "0",
+          "name": "<b>Für den Teig:</b>"
+        },
+        {
+          "mongoId": null,
+          "eigenschaft": null,
+          "einheit": "g",
+          "id": null,
+          "ist_basic": null,
+          "menge": "500",
+          "name": "Mehl"
+        },
+        {
+          "mongoId": null,
+          "eigenschaft": null,
+          "einheit": "g",
+          "id": null,
+          "ist_basic": null,
+          "menge": "30",
+          "name": "Hefe"
+        },
+        {
+          "mongoId": null,
+          "eigenschaft": null,
+          "einheit": "g",
+          "id": null,
+          "ist_basic": null,
+          "menge": "25",
+          "name": "Zucker"
+        },
+        {
+          "mongoId": null,
+          "eigenschaft": null,
+          "einheit": "g",
+          "id": null,
+          "ist_basic": null,
+          "menge": "100",
+          "name": "Mohnback"
+        },
+        {
+          "mongoId": null,
+          "eigenschaft": null,
+          "einheit": "ml",
+          "id": null,
+          "ist_basic": null,
+          "menge": "200",
+          "name": "Milch"
+        },
+        {
+          "mongoId": null,
+          "eigenschaft": null,
+          "einheit": "Prise(n)",
+          "id": null,
+          "ist_basic": null,
+          "menge": "1",
+          "name": "Salz"
+        },
+        {
+          "mongoId": null,
+          "eigenschaft": null,
+          "einheit": "g",
+          "id": null,
+          "ist_basic": null,
+          "menge": "100",
+          "name": "Butter"
+        },
+        {
+          "mongoId": null,
+          "eigenschaft": null,
+          "einheit": "",
+          "id": null,
+          "ist_basic": null,
+          "menge": "5",
+          "name": "Eigelb"
+        },
+        {
+          "mongoId": null,
+          "eigenschaft": "BIO",
+          "einheit": "",
+          "id": null,
+          "ist_basic": null,
+          "menge": "1",
+          "name": "Zitrone(n)"
+        },
+        {
+          "mongoId": null,
+          "eigenschaft": null,
+          "einheit": "g",
+          "id": null,
+          "ist_basic": null,
+          "menge": "200",
+          "name": "Kirschkonfitüre"
+        },
+        {
+          "mongoId": null,
+          "eigenschaft": null,
+          "einheit": "",
+          "id": null,
+          "ist_basic": null,
+          "menge": "0",
+          "name": "<b>Für die Garnitur:</b>"
+        },
+        {
+          "mongoId": null,
+          "eigenschaft": null,
+          "einheit": "g",
+          "id": null,
+          "ist_basic": null,
+          "menge": "100",
+          "name": "Aprikosenkonfitüre"
+        },
+        {
+          "mongoId": null,
+          "eigenschaft": null,
+          "einheit": "g",
+          "id": null,
+          "ist_basic": null,
+          "menge": "30",
+          "name": "Mandelblättchen"
+        },
+        {
+          "mongoId": null,
+          "eigenschaft": null,
+          "einheit": "n. B.",
+          "id": null,
+          "ist_basic": null,
+          "menge": "0",
+          "name": "Hagelzucker"
+        }
+      ],
+      "warten": "Deckelchen darauf und für mindestens 25 Minuten an einem warmen Ort gehen lassen. ",
+      "warteZeit": "25"
+    },
+    {
+      "id": null,
+      "abhaeningVon": null,
+      "zubereitung": "Ist der Teig deutlich größer geworden, kommt er auf eine bemehlte Arbeitsfläche und wird per Hand nochmals gut durchgeknetet. Ausrollen auf eine Größe von etwa 45 x 45 cm. Dann wird er in 3 Streifen geteilt, also je 45x15 cm. Nun kommt die Kirschkonfitüre darauf, einmal längs auf die Mitte aufstreichen. Der Teig wird nun von der längeren Seite her darüber geklappt und dann aufgerollt. Ist das mit allen dreien geschehen wird der Zopf geflochten. Dieser kommt dann auf ein Blech, welches zuvor mit Backpapier belegt wurde.",
+      "zubereitungsZeit": "15",
+      "zutaten": [],
+      "warten": " Mit einem sauberen Geschirrtuch bedecken und für 15 Minuten gehen lassen. In der Zwischenzeit wird das restliche Eigelb mit 1 EL Wasser verquirlt. Bevor der Zopf in den Ofen kommt, diesen damit bestreichen. ",
+      "warteZeit": "15"
+    },
+    {
+      "id": null,
+      "abhaeningVon": null,
+      "zubereitung": "Den Ofen auf 190 °C oder Umluft 170 °C vorheizen. Den Zopf hineinschieben, gebacken wird er dann für ca. 30 - 40 Minuten. Es könnte sein, dass ihr ihn nach 15 - 20 Minuten abdecken müsst.\r\n\r\n",
+      "zubereitungsZeit": "40",
+      "zutaten": [],
+      "warten": "",
+      "warteZeit": ""
+    },
+    {
+      "id": null,
+      "abhaeningVon": null,
+      "zubereitung": "Die Aprikosenkonfitüre erwärmen, wenn der Zopf aus dem Ofen kommt, wird er noch heiß aprikotiert, d. h. er wird mit der Konfitüre glasiert/bestrichen. Die Mandelplättchen in einer Pfanne ohne Fett anrösten und über den lauwarmen Zopf streuen. Nach Belieben zusätzlich mit Hagelzucker bestreuen.",
+      "zubereitungsZeit": "10",
+      "zutaten": [],
+      "warten": "",
+      "warteZeit": ""
+    }
+  ],
+  "rezeptsammlungen_link": null
+}
